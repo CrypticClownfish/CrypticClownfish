@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am CrypticClownfish, a challenge writer for CSCPSUT's METACTF 2025 👀.
+
 <!--
 **CrypticClownfish/CrypticClownfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
